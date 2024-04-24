@@ -19,7 +19,6 @@ Our project's objectives were to:
 We elected to participate in:
 
 - Track B: Evidence Detection (ED), where the goal is to determine the relevance of evidence to a given claim.
-- Track C: Deep learning-based approaches underpinned by transformer architectures.
 
 The datasets provided for Track B include over 23K claim-evidence pairs for training and almost 6K pairs for validation.
 
