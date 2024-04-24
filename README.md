@@ -55,7 +55,7 @@ The predictions files:
 
 Our trained models, due to their sizes, are as followings:
 
-- [Trained Model for Approach B]: `bidirectional_lstm_model.h5`
+- Trained Model for Approach B: `bidirectional_lstm_model.h5`
 - [Trained Model for Approach C]:
    Access these models using the link https://drive.google.com/drive/folders/177AI6UpgCXBN54_CiDVI1yt-Lg3olJTA?usp=drive_link
    `bert_for_sequence_classification.pth`
