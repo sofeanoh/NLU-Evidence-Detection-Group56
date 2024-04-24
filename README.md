@@ -44,11 +44,10 @@ Follow the steps outlined in each Jupyter notebook for the respective solutions:
 Notebooks for training models for each approach:
 
 - `Group_56_LSTM.ipynb`: Jupyter notebook demonstrating the inference process for Approach B.
-- `<Nisa>.ipynb`: Jupyter notebook demonstrating the inference process for Approach C.
+- `Group_56_C.ipynb`: Jupyter notebook demonstrating the inference process for Approach C.
 
 The tokeniser or classifier used in our models:
 - `tokenizer.pickle`: Serialized tokenizer used for text preprocessing in Approach B.
-- <NISA>
   
 The predictions files:
 - `Group_56_B.csv`: output file with predictions from Approach B.
@@ -56,10 +55,16 @@ The predictions files:
 
 Our trained models, due to their sizes, are as followings:
 
-- `bidirectional_lstm_model.h5`: [Trained Model for Approach B]
-- ` <NISA> ` : [Trained Model for Approach C]
+- [Trained Model for Approach B]: `bidirectional_lstm_model.h5`
+- [Trained Model for Approach C]:
+   Access these models using the link https://drive.google.com/drive/folders/177AI6UpgCXBN54_CiDVI1yt-Lg3olJTA?usp=drive_link
+   `bert_for_sequence_classification.pth`
+    `scaler.joblib`
+    `lr_classifier.joblib`
+  
+  
 
-Access these models using t
+
 
 ## Model Cards
 
